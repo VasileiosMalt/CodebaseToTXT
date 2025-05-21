@@ -1,4 +1,4 @@
-# 📄 Codebasetotxt
+# 📄 Codebase to TXT
 
 A Windows desktop application that extracts your codebase structure and contents into a single text file with a modern graphical interface.
 
