@@ -4,7 +4,7 @@ A Windows desktop application that extracts your codebase structure and contents
 
 ## 🔎 Overview
 
-Codebasetotxt scans your selected folder and subfolders, filters files by extension, and generates a comprehensive text file. This output includes both a visual directory tree and the complete contents of each matching file, organized for easy review or further analysis, particularly for use with large language models (LLMs).
+CodebaseToTXT scans your selected folder and subfolders, filters files by extension, and generates a comprehensive text file. This output includes both a visual directory tree and the complete contents of each matching file, organized for easy review or further analysis, particularly for use with large language models (LLMs).
 
 ## ✨ Features
 
@@ -30,7 +30,7 @@ Codebasetotxt scans your selected folder and subfolders, filters files by extens
 
 ## 🎮 Usage
 
-Simply double-click `Codebasetotxt.exe` to launch the application.
+Run the PowerShell file `CodebaseToTXT.ps1` to launch the application.
 
 ## 📋 Output Example
 
